@@ -23,15 +23,15 @@
   "require": {
     "php": ">=7.4|<=8.2",
     "ext-swoole": "^4",
-    "illuminate/console": ">=5.4",
-    "illuminate/contracts": ">=5.4",
-    "illuminate/http": ">=5.4",
-    "illuminate/support": ">=5.4",
+    "illuminate/console": ">=10.0",
+    "illuminate/contracts": ">=10.0",
+    "illuminate/http": ">=10.0",
+    "illuminate/support": ">=10.0",
     "predis/predis": "^1.1",
-    "laravel/framework":"v5.4"
+    "laravel/lumen-framework": ">=10.0"
   },
   "require-dev": {
-    "laravel/lumen-framework": ">=5.4",
+    "laravel/framework": ">=10.0",
     "phpunit/phpunit": ">=8.5",
     "phpunit/php-code-coverage": ">=7.0",
     "php-coveralls/php-coveralls": ">=2.1",
