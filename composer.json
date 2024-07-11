@@ -27,7 +27,7 @@
     "illuminate/contracts": ">=10.0",
     "illuminate/http": ">=10.0",
     "illuminate/support": ">=10.0",
-    "predis/predis": "^1.1",
+    "predis/predis": "^2.2",
     "laravel/lumen-framework": ">=10.0"
   },
   "require-dev": {
